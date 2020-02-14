@@ -26,7 +26,7 @@ In the game operation of this game is that we will be played as characters in va
 - Unity Engine (Windows Platform)
 - Visual Studio (CSharp)
 # Setup
-Extract .ZIP file and run .EXE in PC and install .APK file on smartphone.
+Extract .ZIP file and run .EXE file.
 
 1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOhiQGv2yu9Bn1SF9w?e=IU3Iou">[**DOWNLOAD ZIP FILE**]</a>
 
