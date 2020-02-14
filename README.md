@@ -10,7 +10,7 @@ The player will receive the character chosen by the player. In which the player'
 In the game operation of this game is that we will be played as characters in various legends around the world. In which players must use various planning and calculation techniques To reach the destination as quickly as possible While hindering the enemy with the style of play is to play alternately. Which if everyone has played all of them, then they will return to start their turn Which must reach the destination before the enemy Each character will have different methods or methods of winning. Have different capabilities And continuously playing, the characters will have more capabilities.
 
 ![](https://i.imgur.com/hZWJKGo.jpg)
-![](https://i.imgur.com/LnuzFcE.jpg)
+![](https://i.imgur.com/N5jMawj.jpg)
 
 # Screenshots
 ![](https://i.imgur.com/7nf6OSe.jpg)
