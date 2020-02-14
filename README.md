@@ -11,7 +11,6 @@ In the game operation of this game is that we will be played as characters in va
 
 ![](https://i.imgur.com/hZWJKGo.jpg)
 ![](https://i.imgur.com/thrn4YK.jpg)
-![](https://i.imgur.com/EzEbK4u.jpg)
 
 # Screenshots
 ![](https://i.imgur.com/7nf6OSe.jpg)
