@@ -30,7 +30,7 @@ Extract .ZIP file and run .EXE file.
 
 1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOhiQGv2yu9Bn1SF9w?e=IU3Iou">[**DOWNLOAD ZIP FILE**]</a>
 
-*Warning: This game use Photon Network free version that make the game unstable.*
+*Warning: This game use Photon Network free version that make game unstable to play.*
 # Team Member(s)
 - Chayootpong Promlee
 - Radit Kamai
