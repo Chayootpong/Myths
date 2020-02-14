@@ -28,7 +28,7 @@ In the game operation of this game is that we will be played as characters in va
 # Setup
 Extract .ZIP file and run .EXE file.
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOhiQGv2yu9Bn1SF9w?e=IU3Iou">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOhiQGv2yu9Bn1SF9w?e=gScEzD">[**DOWNLOAD ZIP FILE**]</a>
 
 *Warning: This game use Photon Network free version that make game unstable to play.*
 # Team Member(s)
