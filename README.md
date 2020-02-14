@@ -15,12 +15,11 @@ In the game operation of this game is that we will be played as characters in va
 # Screenshots
 ![](https://i.imgur.com/PJ3utxO.jpg)
 ![](https://i.imgur.com/85abDsF.jpg)
-![](https://i.imgur.com/4P9Spat.jpg)
-![](https://i.imgur.com/gT2VlfO.jpg)
-![](https://i.imgur.com/VzpJjEH.jpg)
-![](https://i.imgur.com/EmRMGnz.png)
-![](https://i.imgur.com/BCCxyNL.png)
-![](https://i.imgur.com/hAfXPly.jpg)
+![](https://i.imgur.com/VQhr3qZ.jpg)
+![](https://i.imgur.com/KXDMNcm.jpg)
+![](https://i.imgur.com/EzEbK4u.jpg)
+![](https://i.imgur.com/HODl2O2.jpg)
+
 # Rewards
 - Regional Qualified in National Software Contest (NSC 2018), Entertainment type.
 # Development Tools
